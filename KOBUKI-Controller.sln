@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOBUKI-Controller", "KOBUKI-Controller\KOBUKI-Controller.csproj", "{01BC3452-6AD3-4DCB-9237-836B540946CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01BC3452-6AD3-4DCB-9237-836B540946CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01BC3452-6AD3-4DCB-9237-836B540946CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01BC3452-6AD3-4DCB-9237-836B540946CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01BC3452-6AD3-4DCB-9237-836B540946CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E0A746A-63FC-47EA-ACC6-C7911A47D64F}
+	EndGlobalSection
+EndGlobal

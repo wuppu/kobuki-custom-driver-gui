@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\KOBUKI-Controller\KOBUKI-Controller\bin\Debug\KOBUKI-Controller.exe.config
+C:\Users\user\source\repos\KOBUKI-Controller\KOBUKI-Controller\bin\Debug\KOBUKI-Controller.exe
+C:\Users\user\source\repos\KOBUKI-Controller\KOBUKI-Controller\bin\Debug\KOBUKI-Controller.pdb
+C:\Users\user\source\repos\KOBUKI-Controller\KOBUKI-Controller\obj\Debug\KOBUKI-Controller.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\KOBUKI-Controller\KOBUKI-Controller\obj\Debug\KOBUKI_Controller.Properties.Resources.resources
+C:\Users\user\source\repos\KOBUKI-Controller\KOBUKI-Controller\obj\Debug\KOBUKI-Controller.csproj.GenerateResource.cache
+C:\Users\user\source\repos\KOBUKI-Controller\KOBUKI-Controller\obj\Debug\KOBUKI-Controller.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\KOBUKI-Controller\KOBUKI-Controller\obj\Debug\KOBUKI-Controller.exe
+C:\Users\user\source\repos\KOBUKI-Controller\KOBUKI-Controller\obj\Debug\KOBUKI-Controller.pdb
+C:\Users\user\source\repos\KOBUKI-Controller\KOBUKI-Controller\obj\Debug\KOBUKI_Controller.Constants.resources
